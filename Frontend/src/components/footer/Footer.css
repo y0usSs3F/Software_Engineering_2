@@ -1,0 +1,14 @@
+.myfooter footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #1b1b1b;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 18px;
+}
+
+.myfooter .ali {
+    background-color: teal;
+}
